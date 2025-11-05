@@ -1,5 +1,5 @@
 {
-  "name": "gig-factory-mvp",
+  "name": "ungig-mvp",
   "private": true,
   "scripts": {
     "dev": "next dev",
